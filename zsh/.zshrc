@@ -77,6 +77,13 @@ plugins=(
 
 source $ZSH/oh-my-zsh.sh
 
+#
+# golang
+#
+
+export PATH=$HOME/bin/go/bin:$HOME/go/bin:$PATH
+
+
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
