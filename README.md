@@ -1,5 +1,6 @@
 # dotfiles
 
+test git sync
 
 ## install ohmyzsh
 
